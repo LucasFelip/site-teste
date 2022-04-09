@@ -1,0 +1,149 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    padding-top: 1.25vh;
+}
+
+.frase-marke {
+    align-items: center;
+    padding-top: 1.5vh;
+    padding-bottom: 4.5vh;
+}
+
+.frase-hst {
+    margin-top: 2.5vh;
+    padding-left: 26px;
+    padding-right: 500px;
+    text-align: left;
+}
+
+.frase-serv {
+    padding-top: 1.25vh;
+    width: 30vh;
+    text-align: left;
+}
+
+.frase-dep {
+    padding: 1.25vh;
+    background-color: #35add1;
+    width: 30vh;
+    text-align: left;
+}
+
+.cor-azul {
+    color: #35add1;
+}
+
+.cor-preta {
+    color: #222;
+}
+
+.cor-orange {
+    color: rgb(206, 167, 95);
+}
+
+.afinar {
+    font-weight: lighter;
+}
+
+.centro {
+    padding: 2vh;
+    text-align: center;
+}
+
+.button-orange {
+    background-color: #29ace0;
+    padding: 1.5vh;
+    display: inline;
+}
+
+.logo {
+    background-color: #29ace0;
+    padding: 5vh;
+    color: #222;
+}
+
+.contato {
+    background-color: #29ace0;
+    padding: 1vh;
+}
+
+.sessao-principal {
+    background: url('/Desenvolvimento Web/Atividade 2/img/paisagem.jpg') no-repeat center center;
+    background-size: cover;
+    height: 30vh;
+}
+
+.sessao-hst {
+    background-color: #fff;
+    background-size: cover;
+    width: auto;
+    height: 120vh;
+}
+
+.sessao-service {
+    background-color: #29ace0;
+    background-size: cover;
+    width: auto;
+    height: 50vh;
+}
+
+.sessap-dep {
+    background-color: #fff;
+    background-size: cover;
+    width: auto;
+    height: 50vh;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #3da1c971;
+    height: 8vh;
+}
+
+.nav-list {
+    list-style: none;
+    display: inline-flex;
+}
+
+.nav-list div {
+    margin-top: 15px;
+    margin-right: 20px;
+}
+
+.nav-list li {
+    margin-left: 32px;
+}
+
+.img-horizonte {
+    width: 104vh;
+    height: 45vh;
+}
+
+.img-vertical {
+    margin-left: 50vh;
+}
+
+.svg {
+    height: 40px;
+    width: 40px;
+    padding-right: 5px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #222;
+    color: #fff;
+}
